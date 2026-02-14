@@ -1,9 +1,27 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33E6FF,100:2A6BFF&height=260&section=header&text=Sarner&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multi-language%20Developer%20%E2%80%A2%20Scripts%20%E2%80%A2%20Tools%20%E2%80%A2%20Pok%C3%A9mon%20vibes&descAlignY=62&descSize=20" />
 </p>
+<p align="center">
+  <a href="https://github.com/SARNIK30">
+    <img src="https://komarev.com/ghpvc/?username=SARNIK30&label=Profile%20Views&color=2A6BFF&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/SARNIK30?tab=followers">
+    <img src="https://img.shields.io/github/followers/SARNIK30?label=Followers&style=for-the-badge&color=33E6FF&labelColor=111" />
+  </a>
+  <a href="https://github.com/SARNIK30?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Open-2A6BFF?style=for-the-badge&labelColor=111" />
+  </a>
+</p>
 
----
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&center=true&vCenter=true&width=650&lines=Python+%7C+C+%7C+C%2B%2B+%7C+Shell;JavaScript+%7C+Lua+%7C+SQL;Scripts+%7C+Tools+%7C+Automation;Clean+Code+%E2%80%A2+Fast+Solutions+%E2%80%A2+Pok%C3%A9mon+fan+%F0%9F%92%99" />
+</p>
+
+-- -
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,lua,mysql,sqlite,git,github,linux&theme=dark" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=33E6FF" />
   <img src="https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=c%2B%2B&logoColor=33E6FF" />
